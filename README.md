@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shraddha%20Yadav&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20CSE%20Undergrad%20%7C%20Web%20Developer&descAlignY=58&descColor=a78bfa" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shraddhayadav2006-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shraddhayadav2006)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shraddhayadavxa/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-shraddhayadavxa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shraddhayadavxa/)
 [![Email](https://img.shields.io/badge/Gmail-shraddhayadavxa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shraddhayadavxa@gmail.com)
 
 </div>
@@ -75,7 +75,7 @@ I'm a passionate **Computer Science & Engineering** undergraduate focused on the
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/shraddhayadavxa?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/Shraddha26/)
+[![Shraddha's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=shraddhayadavxa&theme=dark)](https://leetcode.com/u/shraddhayadavxa/)
 
 </div>
 
@@ -87,14 +87,14 @@ I'm a passionate **Computer Science & Engineering** undergraduate focused on the
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shraddhayadav2006&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shraddhayadav2006&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shraddhayadav2006&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shraddhayadav2006&theme=github_dark"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shraddhayadav2006&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=shraddhayadav2006&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
