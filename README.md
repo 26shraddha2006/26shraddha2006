@@ -75,7 +75,7 @@ I'm a passionate **Computer Science & Engineering** undergraduate focused on the
 
 <div align="center">
 
-[![Shraddha's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=shraddhayadavxa&theme=dark)](https://leetcode.com/u/shraddhayadavxa/)
+[![Shraddha's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Shraddha26&theme=dark)](https://leetcode.com/u/Shraddha26/)
 
 </div>
 
