@@ -75,7 +75,7 @@ I'm a passionate **Computer Science & Engineering** undergraduate focused on the
 
 <div align="center">
 
-[![Shraddha's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Shraddha26&theme=dark)](https://leetcode.com/u/Shraddha26/)
+[![Shraddha's LeetCode stats](https://leetcard.jacoblin.cool/Shraddha26?theme=dark&font=Baloo_2&ext=heatmap)](https://leetcode.com/u/Shraddha26/)
 
 </div>
 
@@ -87,8 +87,8 @@ I'm a passionate **Computer Science & Engineering** undergraduate focused on the
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shraddhayadav2006&theme=github_dark"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shraddhayadav2006&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=shraddhayadav2006&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shraddhayadav2006&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
