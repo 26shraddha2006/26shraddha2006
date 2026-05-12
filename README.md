@@ -87,14 +87,14 @@ I'm a passionate **Computer Science & Engineering** undergraduate focused on the
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=shraddhayadav2006&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shraddhayadav2006&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=26shraddha2006&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=26shraddha2006&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=shraddhayadav2006&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=26shraddha2006&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -140,6 +140,6 @@ I'm always open to collaborating on **cybersecurity projects**, **web developmen
 
 *"Security is not a product, but a process."* — Bruce Schneier
 
-![Profile Views](https://komarev.com/ghpvc/?username=shraddhayadav2006&color=7c3aed&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=26shraddha2006&color=7c3aed&style=for-the-badge)
 
 </div>
