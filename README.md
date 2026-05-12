@@ -75,7 +75,7 @@ I'm a passionate **Computer Science & Engineering** undergraduate focused on the
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/shraddhayadavxa?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/shraddhayadavxa/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shraddhayadavxa?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/Shraddha26/)
 
 </div>
 
