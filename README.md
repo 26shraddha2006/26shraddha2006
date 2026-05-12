@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shraddha%20Yadav&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20CSE%20Undergrad%20%7C%20Web%20Developer&descAlignY=58&descColor=a78bfa" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shraddhayadav2006-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shraddhayadav2006)
-[![LeetCode](https://img.shields.io/badge/LeetCode-shraddhayadavxa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shraddhayadavxa/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Shraddha26-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shraddha26/)
 [![Email](https://img.shields.io/badge/Gmail-shraddhayadavxa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shraddhayadavxa@gmail.com)
 
 </div>
